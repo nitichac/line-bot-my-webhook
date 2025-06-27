@@ -1,0 +1,6 @@
+{
+  "name": "Line bot webhook",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  
+  "features": {}
+}
